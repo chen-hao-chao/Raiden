@@ -1,0 +1,40 @@
+<!DOCTYPE html>  
+<html>
+    <head> 
+        <meta charset="utf-8" />
+        <title>Phaser test project</title>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Orbitron');
+            .hiddenText{
+                font-family: Orbitron;
+                visibility: hidden;
+                height: 0px;
+            }
+            .canvas{
+            
+                margin: auto;
+            }
+        </style>
+        <script>var music;var music_start = false;var select;var shift;var rank_list = [];var score;</script>
+        <!--Firebase App is always required and must be first -->
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-database.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-firestore.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-functions.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser-ce/2.12.0/phaser.min.js"></script>
+        <script type="text/javascript" src="./js/config.js"></script>
+        <script type="text/javascript" src="./js/boot.js"></script>
+        <script type="text/javascript" src="./js/load.js"></script>
+        <script type="text/javascript" src="./js/menu.js"></script>
+        <script type="text/javascript" src="./js/lose.js"></script>
+        <script type="text/javascript" src="./js/win.js"></script>
+        <script type="text/javascript" src="./js/about.js"></script>
+        <script type="text/javascript" src="./js/play.js"></script>
+        <script type="text/javascript" src="./js/game.js"></script>
+    </head>
+    <body>
+        <p class='hiddenText'> . </p>
+        <div class='canvas' id='canvas'></div>
+    </body>  
+</html>  
