@@ -23,9 +23,6 @@ This is the midterm project of the curese, Software Studio, and the goal is to c
 |Little helper|5%|N|
 |Boss unique movement and attack-mode|5%|Y|
 
-## web address
-https://106000103.gitlab.io/Assignment_02
-
 ## Jucify mechanisms : 
 1. Level: If the player gets more than 100 points, he/she can access the next level.
 2. Skill: The player can use laser gun if he/she has enough MP(energy).
@@ -34,3 +31,14 @@ https://106000103.gitlab.io/Assignment_02
 1. Unique bullet: In round 1, if the player gets the rocket coins, he/she can launch rockets.
 2. Bullet automatic aiming: The rockets are automatically aiming. They will follow the trail of the closest enemy.
 
+## Game screens
+![](https://i.imgur.com/8TlQin0.png)
+
+![](https://i.imgur.com/iol0weC.png)
+
+![](https://i.imgur.com/AhhB68t.png)
+
+![](https://i.imgur.com/DIVDnGs.png)
+
+## web address
+https://106000103.gitlab.io/Assignment_02
