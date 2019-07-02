@@ -31,14 +31,10 @@ This is the midterm project of the curese, Software Studio, and the goal is to c
 1. Unique bullet: In round 1, if the player gets the rocket coins, he/she can launch rockets.
 2. Bullet automatic aiming: The rockets are automatically aiming. They will follow the trail of the closest enemy.
 
-## Game screens
-![](https://i.imgur.com/8TlQin0.png)
-
-![](https://i.imgur.com/iol0weC.png)
-
-![](https://i.imgur.com/AhhB68t.png)
-
-![](https://i.imgur.com/DIVDnGs.png)
+## Game screenshoots
+| game screenshoot 1 | game screenshoot 2 | game screenshoot 3 | game screenshoot 4 |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| ![](https://i.imgur.com/AhhB68t.png) | ![](https://i.imgur.com/iol0weC.png) | ![](https://i.imgur.com/DIVDnGs.png) | ![](https://i.imgur.com/8TlQin0.png) |
 
 ## web address
 https://106000103.gitlab.io/Assignment_02
