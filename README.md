@@ -1,7 +1,6 @@
-# Software Studio 2019 Spring Assignment_02
-
-## Topic
-* Project Name : Assignment_02 (Raiden)
+# Raiden
+## Intro
+This is the midterm project of the curese, Software Studio, and the goal is to create a retro version of Raiden. Raiden is a easy shooting game where the player operate a aircraft and the mission is to shoot the enemies down. Belows are the rating policy and wether I achieve.
 
 ## Basic Components
 |Component|Score|Y/N|
@@ -24,15 +23,14 @@
 |Little helper|5%|N|
 |Boss unique movement and attack-mode|5%|Y|
 
-## Website Detail Description
+## web address
+https://106000103.gitlab.io/Assignment_02
 
-# 作品網址：https://106000103.gitlab.io/Assignment_02
-
-# Jucify mechanisms : 
+## Jucify mechanisms : 
 1. Level: If the player gets more than 100 points, he/she can access the next level.
 2. Skill: The player can use laser gun if he/she has enough MP(energy).
 
-# Bonus : 
+## Bonus : 
 1. Unique bullet: In round 1, if the player gets the rocket coins, he/she can launch rockets.
 2. Bullet automatic aiming: The rockets are automatically aiming. They will follow the trail of the closest enemy.
 
