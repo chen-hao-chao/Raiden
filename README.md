@@ -1,6 +1,6 @@
 # Raiden
 ## Intro
-This is the midterm project of the curese, Software Studio, and the goal is to create a retro version of Raiden. Raiden is a easy shooting game where the player operate a aircraft and the mission is to shoot the enemies down. Belows are the rating policy and wether I achieve.
+This is the midterm project of the curese, Software Studio, and the goal is to create a retro version of Raiden. Raiden is a easy shooting game where the player operate a aircraft and the mission is to shoot the enemies down. Belows are the rating policy list and wether I achieve.
 
 ## Basic Components
 |Component|Score|Y/N|
